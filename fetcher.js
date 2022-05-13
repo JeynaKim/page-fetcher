@@ -20,4 +20,3 @@ const pageFetcher = function (url, fileName) {
 
 pageFetcher(args[0], args[1]);
 
-// document.getElementById('file').files[0].size
